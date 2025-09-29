@@ -624,7 +624,7 @@ export const projectsDataResume: ProjectsDataResume = {
       duration: "6 meses",
       height: "tall",
       image:
-        "https://firebasestorage.googleapis.com/v0/b/dwg-app.firebasestorage.app/o/Proyectos%2FCrm%20Inmobiliario.png?alt=media&token=16f6b773-d4e2-4372-acdb-1b9333d77bb0",
+        "https://firebasestorage.googleapis.com/v0/b/portfolio-tomas-demo.firebasestorage.app/o/GrupoBanker.jpg?alt=media&token=98d891cd-20ce-4e0e-98bb-bf0900c64041",
       gradient: "from-rose-500 to-red-600",
       bgColor: "bg-rose-50",
       accentColor: "text-rose-600",
@@ -660,7 +660,7 @@ export const projectsDataResume: ProjectsDataResume = {
       duration: "8 meses",
       height: "short",
       image:
-        "https://firebasestorage.googleapis.com/v0/b/dwg-app.firebasestorage.app/o/Proyectos%2FAssureX.png?alt=media&token=3c79b430-022b-4b7c-82b7-433511975143",
+        "https://firebasestorage.googleapis.com/v0/b/portfolio-tomas-demo.firebasestorage.app/o/InsuranceBoosters.jpg?alt=media&token=f9f0b5d5-c0fc-46d7-b987-64d36ce692da",
       gradient: "from-indigo-500 to-blue-600",
       bgColor: "bg-indigo-50",
       accentColor: "text-indigo-600",
@@ -697,7 +697,7 @@ export const projectsDataResume: ProjectsDataResume = {
       duration: "6 meses",
       height: "short",
       image:
-        "https://firebasestorage.googleapis.com/v0/b/dwg-app.firebasestorage.app/o/Proyectos%2FAsegura360.png?alt=media&token=1c54cae2-1381-4754-9e43-f94891315803",
+        "https://firebasestorage.googleapis.com/v0/b/portfolio-tomas-demo.firebasestorage.app/o/Clupp.jpg?alt=media&token=d288f2fa-af38-4a14-87c7-7e2652b62a0b",
       gradient: "from-cyan-500 to-emerald-600",
       bgColor: "bg-cyan-50",
       accentColor: "text-cyan-600",
@@ -791,7 +791,7 @@ export const projectsDataResume: ProjectsDataResume = {
       duration: "3 meses",
       height: "auto",
       image:
-        "https://firebasestorage.googleapis.com/v0/b/dwg-app.firebasestorage.app/o/Proyectos%2FLemurSchool.png?alt=media&token=e706504e-cfbb-418e-b165-b9ede5743c34",
+        "https://firebasestorage.googleapis.com/v0/b/portfolio-tomas-demo.firebasestorage.app/o/LemurSchool.jpg?alt=media&token=f55f7e82-3dcd-4ffe-8162-34c6e9cf0a10",
       gradient: "from-violet-600 to-indigo-700",
       bgColor: "bg-violet-50",
       accentColor: "text-violet-700",
